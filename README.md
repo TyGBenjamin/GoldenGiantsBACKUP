@@ -17,12 +17,6 @@ Framework - Materialize Cards
 
  # French, Arabic, Spanish
 
-  # github url
-https://github.com/Johnpo34/Golden_GiantsProj_2
-
-https://github.com/Johnpo34/Golden_Giants_Proj1 (Old repo with all insights)
- # deployed url
-https://johnpo34.github.io/Golden_GiantsProj_2/
  # screenshot
 
  <img width="1081" alt="Screen Shot 2022-01-22 at 9 40 15 AM" src="https://user-images.githubusercontent.com/94233506/150643049-f544b51b-80d2-48a4-bfbf-5ea9253419d7.png">
