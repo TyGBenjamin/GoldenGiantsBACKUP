@@ -4,17 +4,16 @@
 - Project Description: A website where users can go to to translate languages
 
 - User Story:
-As a user, I want to be able to go onto this website and in the search box type in sentences or just words and translate them to a specific languege. A picture will show
+As a USER, I want to be able to go onto this website where I can select a language to have whatever word or sentance typed in English translated to. When I type text into the input that text will be translated into the chosen language selected and shown on the webpage.
 
-- Groundwo
-k Cards
+Framework - Materialize Cards
 
-- APIs: Google Translate & Groundwork
+- APIs: libretranslate, Materialize, Google Fonts
 
 - Task Breakdown:
-    - John: Repo owner, css framework
-    - Tyler: Google Translate api
-    - Ronald: Pictures/images 
+    - John: Repo owner, Css & Framework
+    - Tyler: Javascript
+    - Ronald: Assistance with Css & style
 
  # French, Arabic, Spanish
 
